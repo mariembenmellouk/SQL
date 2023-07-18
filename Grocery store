@@ -11,7 +11,7 @@ INSERT INTO food_store VALUES ( 6,"granola", 1.99,86,"bulk");
 INSERT INTO food_store VALUES ( 7,"popcorn", 1.99,67,"snacks");
 INSERT INTO food_store VALUES ( 8,"apple", 1.99,37,"produce");
 INSERT INTO food_store VALUES ( 9,"chick's nuggs", 4.99,57,"meat");
-INSERT INTO food_store VALUES ( 10,"beans", 0.99,66,"bulk");
+INSERT INTO food_store VALUES ( 10,"beans", 0.99,56,"bulk");
 INSERT INTO food_store VALUES ( 11,"burgers", 6.99,37,"meat");
 INSERT INTO food_store VALUES ( 12,"salsa", 3.99,88,"fresh");
 INSERT INTO food_store VALUES ( 13,"yeast", 3.25,67,"fresh");
